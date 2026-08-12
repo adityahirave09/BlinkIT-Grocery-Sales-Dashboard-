@@ -95,12 +95,27 @@ Created measures for:
 
 ## DASHBOARD 
 
-( https://github.com/adityahirave09/BlinkIT-Grocery-Sales-Dashboard-/blob/main/blinkit%20sales%20dashboard.png )
+<img src="https://raw.githubusercontent.com/adityahirave09/BlinkIT-Grocery-Sales-Dashboard-/main/blinkit%20sales%20dashboard.png" alt="BlinkIT Sales Dashboard" width="100%"/>
 
+## Key Insights
 
+- Tier 3 outlets generated the highest sales contribution (472K+), indicating stronger performance in those locations.
+-  Fruits & Vegetables and Snack Foods were the top-selling item categories.
+-  edium-sized outlets contributed the largest share of total sales (42%+).
+-  Supermarket Type1 significantly outperformed other outlet types in total sales and order volume.
+-  Sales peaked around 2018, showing a strong outlet establishment impact on revenue generation.
+-  Low-fat products contributed nearly 65% of total sales, indicating higher customer preference for low-fat grocery products.
 
+## Conclusion
+The BlinkIT Grocery Sales Dashboard successfully transforms raw grocery transaction data into an interactive business intelligence solution. By leveraging Excel, Power Query, DAX, and Power BI, the dashboard provides clear visibility into sales performance, outlet efficiency, customer trends, and product category performance.
 
+This project demonstrates end-to-end data analysis capabilities, including data preparation, transformation, modeling, visualization, and insight generation, making it a strong addition to a Data Analyst portfolio and GitHub profile.
 
+**Author** - **Aditya Hirave**
+
+**Aspiring Data Analyst**
+
+**Skills: Excel • Power BI • Power Query • DAX • Data Visualization**
 
 
 
