@@ -89,8 +89,13 @@ Created measures for:
 -  Outlet Type Performance Table
 -  Interactive Filters for Location, Year, and Item Type
 
+## Dataset 
 
+(https://github.com/adityahirave09/BlinkIT-Grocery-Sales-Dashboard-/blob/main/BlinkIT%20Grocery%20Data.xlsx)
 
+## DASHBOARD 
+
+( https://github.com/adityahirave09/BlinkIT-Grocery-Sales-Dashboard-/blob/main/blinkit%20sales%20dashboard.png )
 
 
 
